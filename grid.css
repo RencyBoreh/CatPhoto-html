@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: aqua;
+}
+.grid1{
+    height: 300px;
+    background-color:purple;
+
+}
+.img1{
+    width: 100%;
+
+}
+.channel1{
+    border-radius: 40px;
+    width: 50px;
+    
+    
+}
+.ch1{
+    
+    margin-right: 4px;
+    display: inline-block;
+}
+.paragraphs{
+    display: inline-block;
+    width: 200px;
+}
+.p1{
+    font-family: Roboto,Arial;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 10px;
+    font-size: 16px;
+} 
+.p2,.p3{
+    color: grey;
+    font-size: 16px;
+    font-family: Roboto,Arial;
+}
